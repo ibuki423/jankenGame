@@ -6,7 +6,7 @@ void setup() {
   game = new Game();
   background(0);
 }
-
+//aaa
 void draw() {
   board.updateSelectArea();
   board.updateCommentArea("Choose Your Hand");
